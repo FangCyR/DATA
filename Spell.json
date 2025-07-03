@@ -1,0 +1,50 @@
+{
+  "20020": {
+    "name": "Retribution",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20020.png"
+  },
+  "20030": {
+    "name": "Inspire",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20030.png"
+  },
+  "20040": {
+    "name": "Sprint",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20040.png"
+  },
+  "20050": {
+    "name": "Revitalize",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20050.png"
+  },
+  "20060": {
+    "name": "Aegis",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20060.png"
+  },
+  "20070": {
+    "name": "Petrify",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20070.png"
+  },
+  "20080": {
+    "name": "Purify",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20080.png"
+  },
+  "20100": {
+    "name": "Flicker",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20100.png"
+  },
+  "20140": {
+    "name": "Flameshot",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20140.png"
+  },
+  "20150": {
+    "name": "Execute",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20150.png"
+  },
+  "20160": {
+    "name": "Arrival",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20160.png"
+  },
+  "20190": {
+    "name": "Vengeance",
+    "image": "https://raw.githubusercontent.com/FangCyR/DATA/refs/heads/main/Spell/Spell20190.png"
+  }
+}
